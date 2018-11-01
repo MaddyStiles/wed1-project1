@@ -1,0 +1,22 @@
+body{
+    background-image: url("assets/fabric_plaid.png");
+}
+
+img{
+    align-self: flex-start;
+}
+
+.topbar{
+    display:flex;
+}
+
+.social{
+    width: 50px;
+}
+
+.fp{
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    margin: 20px;
+}
